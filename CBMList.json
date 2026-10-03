@@ -1,0 +1,123 @@
+[
+  {
+    "ID": 1,
+    "ProductName": "Olive Oil 250 ML PET",
+    "ProductVolume": "250 ML",
+    "Package": "12x250 ML PET",
+    "NetWeight": "3.00",
+    "GrossWeight": "4.00",
+    "No_Pallet": "216",
+    "CBM": "0.10",
+    "Notes": null
+  },
+  {
+    "ID": 2,
+    "ProductName": "Olive Oil 500 ML PET",
+    "ProductVolume": "500 ML",
+    "Package": "12x500 ML PET",
+    "NetWeight": "6.00",
+    "GrossWeight": "7.00",
+    "No_Pallet": "150",
+    "CBM": "0.11",
+    "Notes": null
+  },
+  {
+    "ID": 3,
+    "ProductName": "Olive Oil 1 LTR PET",
+    "ProductVolume": "1 LTR",
+    "Package": "12x1 LTR PET",
+    "NetWeight": "12.00",
+    "GrossWeight": "13.00",
+    "No_Pallet": "85",
+    "CBM": "0.13",
+    "Notes": null
+  },
+  {
+    "ID": 4,
+    "ProductName": "Olive Oil 250 ML GLASS",
+    "ProductVolume": "250 ML",
+    "Package": "12x250 ML GLASS",
+    "NetWeight": "3.00",
+    "GrossWeight": "6.00",
+    "No_Pallet": "216",
+    "CBM": "0.10",
+    "Notes": null
+  },
+  {
+    "ID": 5,
+    "ProductName": "Olive Oil 500 ML GLASS",
+    "ProductVolume": "500 ML",
+    "Package": "12x500 ML GLASS",
+    "NetWeight": "6.00",
+    "GrossWeight": "10.00",
+    "No_Pallet": "150",
+    "CBM": "0.11",
+    "Notes": null
+  },
+  {
+    "ID": 6,
+    "ProductName": "Olive Oil 1 LTR GLASS",
+    "ProductVolume": "1 LTR",
+    "Package": "12x1 LTR GLASS",
+    "NetWeight": "12.00",
+    "GrossWeight": "18.00",
+    "No_Pallet": "85",
+    "CBM": "0.13",
+    "Notes": null
+  },
+  {
+    "ID": 7,
+    "ProductName": "Olive Oil 4 LTR TIN",
+    "ProductVolume": "4 LTR",
+    "Package": "4x4 LTR TIN",
+    "NetWeight": "15.00",
+    "GrossWeight": "16.00",
+    "No_Pallet": "85",
+    "CBM": "0.15",
+    "Notes": null
+  },
+  {
+    "ID": 8,
+    "ProductName": "Tahina 400 GM",
+    "ProductVolume": "400 GM",
+    "Package": "12x400 GM",
+    "NetWeight": "4.80",
+    "GrossWeight": "5.00",
+    "No_Pallet": "200",
+    "CBM": "0.12",
+    "Notes": null
+  },
+  {
+    "ID": 9,
+    "ProductName": "Tahina 600 GM",
+    "ProductVolume": "600 GM",
+    "Package": "12x600 GM",
+    "NetWeight": "7.20",
+    "GrossWeight": "8.00",
+    "No_Pallet": "150",
+    "CBM": "0.15",
+    "Notes": null
+  },
+  {
+    "ID": 10,
+    "ProductName": "Tahina 900 GM",
+    "ProductVolume": "900 GM",
+    "Package": "12x900 GM",
+    "NetWeight": "10.80",
+    "GrossWeight": "11.00",
+    "No_Pallet": "200",
+    "CBM": "0.16",
+    "Notes": null
+  },
+  {
+    "ID": 11,
+    "ProductName": "Tahina 1 KG",
+    "ProductVolume": "1 KG",
+    "Package": "12x1 KG",
+    "NetWeight": "12.00",
+    "GrossWeight": "13.00",
+    "No_Pallet": "150",
+    "CBM": "0.18",
+    "Notes": null
+  }
+]
