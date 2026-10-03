@@ -7,7 +7,7 @@
     "NetWeight": "3.00",
     "GrossWeight": "4.00",
     "No_Pallet": "216",
-    "CBM": "0.10",
+    "CBM": "0.010",
     "Notes": null
   },
   {
@@ -18,7 +18,7 @@
     "NetWeight": "6.00",
     "GrossWeight": "7.00",
     "No_Pallet": "150",
-    "CBM": "0.11",
+    "CBM": "0.011",
     "Notes": null
   },
   {
@@ -29,7 +29,7 @@
     "NetWeight": "12.00",
     "GrossWeight": "13.00",
     "No_Pallet": "85",
-    "CBM": "0.13",
+    "CBM": "0.013",
     "Notes": null
   },
   {
@@ -40,7 +40,7 @@
     "NetWeight": "3.00",
     "GrossWeight": "6.00",
     "No_Pallet": "216",
-    "CBM": "0.10",
+    "CBM": "0.010",
     "Notes": null
   },
   {
@@ -51,7 +51,7 @@
     "NetWeight": "6.00",
     "GrossWeight": "10.00",
     "No_Pallet": "150",
-    "CBM": "0.11",
+    "CBM": "0.011",
     "Notes": null
   },
   {
@@ -62,7 +62,7 @@
     "NetWeight": "12.00",
     "GrossWeight": "18.00",
     "No_Pallet": "85",
-    "CBM": "0.13",
+    "CBM": "0.013",
     "Notes": null
   },
   {
@@ -73,7 +73,7 @@
     "NetWeight": "15.00",
     "GrossWeight": "16.00",
     "No_Pallet": "85",
-    "CBM": "0.15",
+    "CBM": "0.015",
     "Notes": null
   },
   {
@@ -84,7 +84,7 @@
     "NetWeight": "4.80",
     "GrossWeight": "5.00",
     "No_Pallet": "200",
-    "CBM": "0.12",
+    "CBM": "0.012",
     "Notes": null
   },
   {
@@ -95,7 +95,7 @@
     "NetWeight": "7.20",
     "GrossWeight": "8.00",
     "No_Pallet": "150",
-    "CBM": "0.15",
+    "CBM": "0.015",
     "Notes": null
   },
   {
@@ -106,7 +106,7 @@
     "NetWeight": "10.80",
     "GrossWeight": "11.00",
     "No_Pallet": "200",
-    "CBM": "0.16",
+    "CBM": "0.016",
     "Notes": null
   },
   {
@@ -117,7 +117,7 @@
     "NetWeight": "12.00",
     "GrossWeight": "13.00",
     "No_Pallet": "150",
-    "CBM": "0.18",
+    "CBM": "0.018",
     "Notes": null
   }
 ]
