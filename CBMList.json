@@ -6,8 +6,8 @@
     "Package": "12x1 KG ",
     "NetWeight": "12",
     "GrossWeight": "13",
-    "No_Pallet": "0.024",
-    "CBM": "80",
+    "No_Pallet": "80",
+    "CBM": "0.024",
     "Notes": null
   },
   {
@@ -17,8 +17,8 @@
     "Package": "1x15 KG Printed Tin",
     "NetWeight": "14",
     "GrossWeight": "15",
-    "No_Pallet": "0.021",
-    "CBM": "80",
+    "No_Pallet": "80",
+    "CBM": "0.021",
     "Notes": null
   },
   {
@@ -28,8 +28,8 @@
     "Package": "24x200 GM ",
     "NetWeight": "4.8",
     "GrossWeight": "5",
-    "No_Pallet": "0.016",
-    "CBM": "120",
+    "No_Pallet": "120",
+    "CBM": "0.016",
     "Notes": null
   },
   {
@@ -39,8 +39,8 @@
     "Package": "2x4.5 KG ",
     "NetWeight": "9",
     "GrossWeight": "10",
-    "No_Pallet": "0.017",
-    "CBM": "90",
+    "No_Pallet": "90",
+    "CBM": "0.017",
     "Notes": null
   },
   {
@@ -50,8 +50,8 @@
     "Package": "12x400 GM ",
     "NetWeight": "4.8",
     "GrossWeight": "5",
-    "No_Pallet": "0.014",
-    "CBM": "120",
+    "No_Pallet": "120",
+    "CBM": "0.014",
     "Notes": null
   },
   {
@@ -61,8 +61,8 @@
     "Package": "12x700 GM ",
     "NetWeight": "8.4",
     "GrossWeight": "9",
-    "No_Pallet": "0.018",
-    "CBM": "100",
+    "No_Pallet": "100",
+    "CBM": "0.018",
     "Notes": null
   },
   {
@@ -72,8 +72,8 @@
     "Package": "8x1 LTR TP",
     "NetWeight": "7.36",
     "GrossWeight": "8",
-    "No_Pallet": "0.01",
-    "CBM": "115",
+    "No_Pallet": "115",
+    "CBM": "0.01",
     "Notes": null
   },
   {
@@ -83,8 +83,8 @@
     "Package": "24x180 ML TP",
     "NetWeight": "4.32",
     "GrossWeight": "4.88",
-    "No_Pallet": "0.006",
-    "CBM": "189",
+    "No_Pallet": "189",
+    "CBM": "0.006",
     "Notes": null
   },
   {
@@ -94,8 +94,8 @@
     "Package": "8x1 LTR TP",
     "NetWeight": "7.36",
     "GrossWeight": "8",
-    "No_Pallet": "0.01",
-    "CBM": "115",
+    "No_Pallet": "115",
+    "CBM": "0.01",
     "Notes": null
   },
   {
@@ -105,8 +105,8 @@
     "Package": "24x24x20 ML PET",
     "NetWeight": "11.52",
     "GrossWeight": "13",
-    "No_Pallet": "0.004",
-    "CBM": "180",
+    "No_Pallet": "180",
+    "CBM": "0.004",
     "Notes": null
   },
   {
@@ -116,8 +116,8 @@
     "Package": "1x10 KG Bucket",
     "NetWeight": "9",
     "GrossWeight": "10",
-    "No_Pallet": "0.018",
-    "CBM": "60",
+    "No_Pallet": "60",
+    "CBM": "0.018",
     "Notes": null
   },
   {
@@ -127,8 +127,8 @@
     "Package": "2x4 KG Bucket",
     "NetWeight": "8",
     "GrossWeight": "9",
-    "No_Pallet": "0.016",
-    "CBM": "100",
+    "No_Pallet": "100",
+    "CBM": "0.016",
     "Notes": null
   },
   {
@@ -138,8 +138,8 @@
     "Package": "12x400 GM ",
     "NetWeight": "4.8",
     "GrossWeight": "5",
-    "No_Pallet": "0.01",
-    "CBM": "120",
+    "No_Pallet": "120",
+    "CBM": "0.01",
     "Notes": null
   },
   {
@@ -149,8 +149,8 @@
     "Package": "12x1 KG ",
     "NetWeight": "12",
     "GrossWeight": "13",
-    "No_Pallet": "0.021",
-    "CBM": "80",
+    "No_Pallet": "80",
+    "CBM": "0.021",
     "Notes": null
   },
   {
@@ -160,8 +160,8 @@
     "Package": "1x10 KG Bucket",
     "NetWeight": "9",
     "GrossWeight": "10",
-    "No_Pallet": "0.018",
-    "CBM": "60",
+    "No_Pallet": "60",
+    "CBM": "0.018",
     "Notes": null
   },
   {
@@ -171,8 +171,8 @@
     "Package": "1x18 KG Tin",
     "NetWeight": "17.5",
     "GrossWeight": "18",
-    "No_Pallet": "0.021",
-    "CBM": "80",
+    "No_Pallet": "80",
+    "CBM": "0.021",
     "Notes": null
   },
   {
@@ -182,8 +182,8 @@
     "Package": "1x18 KG Bucket",
     "NetWeight": "17.5",
     "GrossWeight": "18",
-    "No_Pallet": "0.033",
-    "CBM": "60",
+    "No_Pallet": "60",
+    "CBM": "0.033",
     "Notes": null
   },
   {
@@ -193,8 +193,8 @@
     "Package": "1x19 KG Bucket",
     "NetWeight": "19",
     "GrossWeight": "19",
-    "No_Pallet": "0.033",
-    "CBM": "48",
+    "No_Pallet": "48",
+    "CBM": "0.033",
     "Notes": null
   },
   {
@@ -204,8 +204,8 @@
     "Package": "2x4 KG Bucket",
     "NetWeight": "8",
     "GrossWeight": "9",
-    "No_Pallet": "0.016",
-    "CBM": "100",
+    "No_Pallet": "100",
+    "CBM": "0.016",
     "Notes": null
   },
   {
@@ -215,8 +215,8 @@
     "Package": "12x400 GM ",
     "NetWeight": "4.8",
     "GrossWeight": "5",
-    "No_Pallet": "0.01",
-    "CBM": "204",
+    "No_Pallet": "204",
+    "CBM": "0.01",
     "Notes": null
   },
   {
@@ -226,8 +226,8 @@
     "Package": "12x600 GM ",
     "NetWeight": "7.2",
     "GrossWeight": "8",
-    "No_Pallet": "0.013",
-    "CBM": "165",
+    "No_Pallet": "165",
+    "CBM": "0.013",
     "Notes": null
   },
   {
@@ -237,8 +237,8 @@
     "Package": "1x7 KG Tin",
     "NetWeight": "6.5",
     "GrossWeight": "7",
-    "No_Pallet": "0.013",
-    "CBM": "160",
+    "No_Pallet": "160",
+    "CBM": "0.013",
     "Notes": null
   },
   {
@@ -248,8 +248,8 @@
     "Package": "1x7 KG Bucket",
     "NetWeight": "6.5",
     "GrossWeight": "7",
-    "No_Pallet": "0.018",
-    "CBM": "60",
+    "No_Pallet": "60",
+    "CBM": "0.018",
     "Notes": null
   },
   {
@@ -259,8 +259,8 @@
     "Package": "1x9 KG Bucket",
     "NetWeight": "8.3",
     "GrossWeight": "9",
-    "No_Pallet": "0.018",
-    "CBM": "60",
+    "No_Pallet": "60",
+    "CBM": "0.018",
     "Notes": null
   },
   {
@@ -270,8 +270,8 @@
     "Package": "12x900 GM ",
     "NetWeight": "10.8",
     "GrossWeight": "12",
-    "No_Pallet": "0.019",
-    "CBM": "100",
+    "No_Pallet": "100",
+    "CBM": "0.019",
     "Notes": null
   }
 ]
